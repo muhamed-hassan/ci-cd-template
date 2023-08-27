@@ -2,5 +2,9 @@
 
 ***
 
+**`Difficulty Level`**: [Research and development center 🌏 🌎 🌍](https://en.wikipedia.org/wiki/Research_and_development) that belongs to a [university](https://en.wikipedia.org/wiki/University).
+
+***
+
 ![230326855-5d5309f7-4c7a-4787-9c9d-fe08f2181d97](https://github.com/muhamed-hassan/ci-cd-template/assets/17825804/08053ba2-3076-4d55-b1b0-a0d5306318b2)
 

@@ -6,5 +6,4 @@
 
 ***
 
-![230326855-5d5309f7-4c7a-4787-9c9d-fe08f2181d97](https://github.com/muhamed-hassan/ci-cd-template/assets/17825804/08053ba2-3076-4d55-b1b0-a0d5306318b2)
-
+![d8psqph-3c023659-27e8-475a-9d15-e8f0212ccc73](https://github.com/user-attachments/assets/f64e1063-ff0b-46c2-ad7d-eec2013f40b6)
